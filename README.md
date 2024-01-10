@@ -33,7 +33,6 @@ I'm a Data Scientist who believes in the magic of teamwork and the power of data
 📫 **kkprim@gmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/kari-primiano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kari-primiano" height="30" width="40" /></a>
-<a href="https://medium.com/@kkprim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kkprim" height="30" width="40" /></a>
 </p>
 
 ## Languages & Tools: 
