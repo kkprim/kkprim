@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kari</h1>
-<h3 align="center">I'm an impassioned Data Scientist with a real zest for team magic.</h3>
+<h1 align="left">Hi 👋, I'm Kari</h4>
+<img src="https://www.canva.com/design/DAF4N_eYTos/view" alt="KP_Data_Science" width="600" height="500"/>
+
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF4N_eYTos&#x2F;view?utm_content=DAF4N_eYTos&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">AI Violinist_Test</a> by Kari P.
+<h3 align="left">I'm an impassioned Data Scientist with a real zest for team magic. I absolutely thrive when we're all in it together, turning raw data into amazing stories that spark change and get those creative juices flowing. Honestly, what's not to love about diving into data puzzles with great minds by your side?</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkprim&label=Profile%20views&color=0e75b6&style=flat" alt="kkprim" /> </p>
 
