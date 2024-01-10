@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkprim&label=Profile%20views&color=0e75b6&style=flat" alt="kkprim" /> </p>
 
+[![Kari's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkprim)](https://github.com/kkprim/github-readme-stats)
+
 - 🔭 I’m currently working on [AI Violinist: Crafting Notes Beyond Human](https://github.com/kkprim/Neural-Net-Generative-AI-Violin-Composition)
 
 - 🌱 I’m currently learning **AWS, PySpark, Advanced SQL, Prompt Engineering**
