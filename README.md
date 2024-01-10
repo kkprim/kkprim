@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kari Primiano</h1>
+<h1 align="center">Hi 👋, I'm Kari</h1>
 <h3 align="center">I'm an impassioned Data Scientist with a real zest for team magic.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkprim&label=Profile%20views&color=0e75b6&style=flat" alt="kkprim" /> </p>
