@@ -1,5 +1,5 @@
 <h4 align="left">Hi 👋, I'm Kari</h4>
-<img src="KP_Banner_Image.png" alt="KP_Data_Science" width="950" height="500"/>
+<img src="KP_Banner_Image.png" alt="KP_Data_Science" width="950" height="400"/>
 
 I'm a Data Scientist who believes in the magic of teamwork and the power of data. My superpower? Bridging interpersonal and communication skills with technical expertise to drive successful outcomes.
 
