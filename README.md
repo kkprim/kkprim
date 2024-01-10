@@ -1,19 +1,36 @@
-<h1 align="left">Hi 👋, I'm Kari</h4>
-<img src="https://www.canva.com/design/DAF4N_eYTos/view" alt="KP_Data_Science" width="600" height="500"/>
+<h4 align="left">Hi 👋, I'm Kari</h4>
+<img src="KP_Banner_Image.png" alt="KP_Data_Science" width="950" height="500"/>
 
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF4N_eYTos&#x2F;view?utm_content=DAF4N_eYTos&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">AI Violinist_Test</a> by Kari P.
-<h3 align="left">I'm an impassioned Data Scientist with a real zest for team magic. I absolutely thrive when we're all in it together, turning raw data into amazing stories that spark change and get those creative juices flowing. Honestly, what's not to love about diving into data puzzles with great minds by your side?</h3>
+I'm a Data Scientist who believes in the magic of teamwork and the power of data. My superpower? Bridging interpersonal and communication skills with technical expertise to drive successful outcomes.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kkprim&label=Profile%20views&color=0e75b6&style=flat" alt="kkprim" /> </p>
 
 
-- 🔭 I’m currently working on [AI Violinist: Crafting Notes Beyond Human](https://github.com/kkprim/Neural-Net-Generative-AI-Violin-Composition)
+## My Innovations:
 
-- 🌱 I’m currently learning **AWS, PySpark, Advanced SQL, Prompt Engineering**
+- [AI Violinist: Crafting Notes Beyond Human](https://github.com/kkprim/Neural-Net-Generative-AI-Violin-Composition)
+  This project represents a groundbreaking exploration into the realm of music generation using advanced machine learning techniques. Leveraging the rich dataset of violin audio files and cutting-edge models, this endeavor 
+  aims to innovate how we create and perceive music.
 
-- 📝 I regularly write articles on [https://medium.com/@kkprim](https://medium.com/@kkprim)
+- [MoodyManga: A New Wave Recommendation System](https://github.com/kkprim/MoodyManga_Mood_Based_Anime_Playlist_App)
+  MoodyManga is an innovative app that harnesses the power of Natural Language Processing (NLP) and machine learning techniques to analyze and classify emotions in manga synopses. The app combines advanced algorithms with 
+  a hybrid model incorporating content-based and collaborative filtering, enhanced by tuning with genre, popularity, age, and gender features.
 
-- 📫 How to reach me **kkprim@gmail.com**
+- [MoodyManga App: Mood-Based Anime Playlist Generator](https://moody-manga-app-ginakari.streamlit.app/)
+  Interactive Steamlit App.
+
+## My Current Endeavors: 
+
+- AWS Certified Cloud Practioner
+- Tableau Data Analyst Certification
+
+## My Content Creations:
+
+- [Statistical Notations: The Nursery Rhyme](https://medium.com/@kkprim/statistical-notations-the-nursery-rhyme-a9e165286c57)
+- [Detective Decision Tree: A Predictive Model Whodunit How To](https://medium.com/@kkprim/detective-decision-tree-a-predictive-model-whodunit-how-to-28103319fcd0)
+
+
+📫 How to reach me **kkprim@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
