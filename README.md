@@ -11,11 +11,6 @@
 
 - 📫 How to reach me **kkprim@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1WRcSmx3xdpX9yAQgOjlA69Q9DP3kKiu8Hu_fhxi_BXU/edit?usp=sharing](https://docs.google.com/document/d/1WRcSmx3xdpX9yAQgOjlA69Q9DP3kKiu8Hu_fhxi_BXU/edit?usp=sharing)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
