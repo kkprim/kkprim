@@ -21,19 +21,16 @@ I'm a Data Scientist who believes in the magic of teamwork and the power of data
 
 ## My Current Endeavors: 
 
-- AWS Certified Cloud Practioner
-- Tableau Data Analyst Certification
+- AWS Certified Cloud Practioner - in progress
+- Tableau Data Analyst Certified - in progress
 
 ## My Content Creations:
 
 - [Statistical Notations: The Nursery Rhyme](https://medium.com/@kkprim/statistical-notations-the-nursery-rhyme-a9e165286c57)
 - [Detective Decision Tree: A Predictive Model Whodunit How To](https://medium.com/@kkprim/detective-decision-tree-a-predictive-model-whodunit-how-to-28103319fcd0)
 
-
-📫 How to reach me **kkprim@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
+## My Details:
+📫 **kkprim@gmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/kari-primiano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kari-primiano" height="30" width="40" /></a>
 <a href="https://medium.com/@kkprim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kkprim" height="30" width="40" /></a>
@@ -43,3 +40,5 @@ I'm a Data Scientist who believes in the magic of teamwork and the power of data
 <p align="left"> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 ![Kari's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkprim&show_icons=true&theme=tokyonight)
+<p align="left">And continuing to work on them &#x2191; &#128579;</p>
+
